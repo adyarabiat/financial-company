@@ -1,0 +1,106 @@
+.navbar{
+  height: 100px;
+  flex-direction: column;
+  padding: 15px 0px;
+}
+
+main .flex-items{
+  height: 500px;
+  flex-direction: column;
+}
+
+.sec2{
+  height: 550px;;
+  display: flex;
+  flex-direction: column;
+}
+.sec2 .pic{
+  width: 100%; 
+  height: 50%;
+ 
+}
+.sec2 .tex1{
+  width: 100%;
+  height: 50%;
+  }
+
+
+
+
+
+.sec3 .text3 h3{
+  padding: 10px 10px;
+}
+.sec3 .text3 h2{
+  padding-bottom: 20px;
+}
+.sec3 .text3 p{
+  padding-bottom: 20px;
+}
+
+.sec3 .images{
+  flex-direction: column;
+  align-items: center;
+}
+.sec3 .images img{
+  width: 70%;
+  padding: 5px 5px;
+  height: 70px;
+}
+
+
+
+
+.sec4{
+  flex-direction: column;
+  height: 550px;
+}
+
+.sec4 .pic4{
+  width: 100%;
+  height: 272px;
+}
+
+.sec4 .tex21{
+  width: 100%;
+  height: 275px;
+}
+
+.sec5 .images img{
+   
+  height: 170px;
+}
+
+.sec5 .images{
+  flex-direction: column;
+}
+
+.sec5 .images h3{
+  padding-bottom: 30px;
+}
+
+.sec5 .images h4{
+  padding-top: 5px;
+}
+
+
+
+
+.sec6{
+  flex-direction: column;
+}
+.sec6 img{
+  width: 100%;
+}
+.sec6 .call{
+  width: 100%;
+}
+
+.sec6 .call h2{
+  padding-top: 15px;
+}
+ 
+
+
+
+ 
